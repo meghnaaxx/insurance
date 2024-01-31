@@ -2150,6 +2150,7 @@ button {
 }
 .single-features-item-three {
   padding: 58px 60px 50px;
+    background-color:white;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .single-features-item-three {
@@ -2167,10 +2168,12 @@ button {
 .single-features-item-three .content h4.title {
   letter-spacing: -0.02em;
   margin-bottom: 19px;
+    color:black;
 }
 .single-features-item-three .content p {
-  color: rgba(255, 255, 255, 0.65);
+  color: black;
   margin-bottom: 30px;
+    
 }
 .single-features-item-three .content .btn-link {
   color: rgba(255, 255, 255, 0.65);
